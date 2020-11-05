@@ -294,6 +294,10 @@ input[type=submit] {
   display: inline-block;
 }
 
+.radio-button:hover {
+  cursor: pointer;
+}
+
 .radio-button > input {
   opacity: 0;
   position: fixed;
