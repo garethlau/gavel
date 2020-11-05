@@ -34,7 +34,7 @@ Gavel makes it really simple for you to submit votes, but please think hard
 before you vote. **Once you make a decision, you can't take it back**.
 '''.strip()
 
-DEFAULT_EMAIL_SUBJECT = 'Welcome to Gavel!'
+DEFAULT_EMAIL_SUBJECT = 'Welcome to Gavel - Hack Western 7 Judging Platform'
 
 DEFAULT_EMAIL_BODY = '''
 Hi {name},
