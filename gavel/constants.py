@@ -18,8 +18,7 @@ Welcome to Gavel.
 
 **Please read this important message carefully before continuing.**
 
-Gavel is a fully automated expo judging system that both tells you where to go
-and collects your votes.
+Gavel is a fully automated expo judging system. 
 
 The system is based on the model of pairwise comparison. You'll start off by
 looking at a single submission, and then for every submission after that,
@@ -39,7 +38,7 @@ DEFAULT_EMAIL_SUBJECT = 'Welcome to Gavel - Hack Western 7 Judging Platform'
 DEFAULT_EMAIL_BODY = '''
 Hi {name},
 
-Welcome to Gavel, the online expo judging system. This email contains your
+Welcome to Gavel, the online expo judging system for Hack Western 7. This email contains your
 magic link to the judging system.
 
 DO NOT SHARE this email with others, as it contains your personal magic link.
@@ -48,6 +47,13 @@ To access the system, visit {link}.
 
 Once you're in, please take the time to read the welcome message and
 instructions before continuing.
+
+If you have any questions or run into any issues, please contact a Hack Western organizer.
+
+Best,
+
+Hack Western 7 Organizing Team
+
 '''.strip()
 
 DEFAULT_CLOSED_MESSAGE = '''
