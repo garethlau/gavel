@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/anishathalye/gavel/docs/banner.png" width="450" alt="Gavel banner">
+<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gavel/banner.png" width="450" alt="Gavel banner">
 
 **Gavel** is a project expo judging system.
 
@@ -15,7 +15,7 @@ keep us going <3**
 
 <p align="center">
     <a href="http://www.anishathalye.com/2016/09/19/gavel-an-expo-judging-system/">
-        <img src="https://raw.githubusercontent.com/anishathalye/gavel/docs/screenshot.png" width="320" alt="Gavel screenshot">
+        <img src="https://raw.githubusercontent.com/anishathalye/assets/master/gavel/screenshot.png" width="320" alt="Gavel screenshot">
     </a>
 </p>
 
@@ -174,7 +174,7 @@ If you use Gavel in any way in academic work, please cite the following:
 
 ## License
 
-Copyright (c) 2015-2019 Anish Athalye. Released under AGPLv3. See
+Copyright (c) 2015-2021 Anish Athalye. Released under AGPLv3. See
 [LICENSE.txt][license] for details.
 
 [blog-1]: http://www.anishathalye.com/2015/03/07/designing-a-better-judging-system/
